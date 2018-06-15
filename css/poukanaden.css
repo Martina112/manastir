@@ -1,0 +1,36 @@
+#ornament1{
+	padding-top: 0;
+	background: #333;
+}
+.najglaven{
+	width: 100%;
+	display: block;
+}
+.prvtxt{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+   margin-top:7%;
+    width: 40%;
+    background: #000;
+    background-size: cover;
+    color: gray;
+    padding: 30px;
+  
+    overflow-y: scroll;
+    height: 100%;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.vtorslika{
+	width: 60%;
+	display: block;
+	float: right;
+	margin-top:7%;
+	    height: 85.9vh;
+	    background: #000 url(../images/21.jpg) ;
+
+}
